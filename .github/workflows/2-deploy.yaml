@@ -1,5 +1,7 @@
-name: Test Project
-on: push
+name: Deploy
+
+# On commit or manual run.
+on: [push, workflow_dispatch]
 
 jobs:
   test:
