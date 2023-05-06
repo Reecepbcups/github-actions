@@ -10,8 +10,8 @@ function HelpBox({ title, text }) {
 }
 
 HelpBox.propTypes = {
-  title: string,
-  text: string,
+  title: String,
+  text: String,
 };
 
 export default HelpBox;
