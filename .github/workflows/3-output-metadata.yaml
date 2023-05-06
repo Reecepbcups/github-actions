@@ -1,3 +1,5 @@
+# manually run this
+
 name: Output Information
 on: workflow_dispatch
 jobs:
